@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mahasa_Manouchehri_FinalProject
 
 ## step1
@@ -19,8 +18,3 @@ console.log("Days until Christmas: " + getDaysUntilChristmas() + " days");
 ![step3](./images/IOS.png)
 ![step4](./images/windows.png)
 
-
-​
-=======
-# Mad9112_FinalProject
->>>>>>> 9dd5856c4d587da66a0fdd8aec01150a2b9a8981
